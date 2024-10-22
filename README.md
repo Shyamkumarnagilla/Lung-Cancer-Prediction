@@ -4,7 +4,7 @@ This repository contains a machine learning project aimed at predicting lung can
 
 Dataset<br>
 The dataset used in this project includes patient demographics, medical history, and other relevant factors. The data was preprocessed to handle missing values, normalize features, and prepare it for model training.<br>
-
+Source: https://github.com/Shyamkumarnagilla/Lung-Cancer-Prediction/blob/main/survey%20lung%20cancer.csv <br>
 Modeling: Logistic Regression<br>
 
 Evaluation<br>
